@@ -53,7 +53,7 @@ To democratize access to Landsat SR data by providing an easy-to-use, responsive
 
 ## 🌐 Join Us in Exploring Earth
 
-By harnessing the power of AI and satellite data, we aim to make Earth observation a collaborative and inclusive endeavor. Whether you're monitoring agricultural fields, conducting research, or simply curious about our planet, **Landsat Data Explorer** is your gateway to informed exploration.
+By harnessing the power of AI and satellite data, we aim to make Earth observation a collaborative and inclusive endeavor. Whether you're monitoring agricultural fields, conducting research, or simply curious about our planet, **LandFinder** is your gateway to informed exploration.
 
 ---
 
