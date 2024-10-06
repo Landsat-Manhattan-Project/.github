@@ -1,6 +1,6 @@
-# 🌍 Landsat Data Explorer
+# 🌍 LandFinder
 
-Welcome to **Landsat Data Explorer**, an inclusive and user-friendly web application that empowers everyone—from farmers and scientists to students and citizens—to access, interpret, and utilize Landsat Surface Reflectance (SR) data with ease.
+Welcome to **LandFinder**, an inclusive and user-friendly web application that empowers everyone—from farmers and scientists to students and citizens—to access, interpret, and utilize Landsat Surface Reflectance (SR) data with ease.
 
 ## 📚 About Us
 
